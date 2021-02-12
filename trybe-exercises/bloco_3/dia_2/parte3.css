@@ -1,0 +1,32 @@
+h1{
+    font-family: sans-serif;
+}
+p{
+    font-weight: 600;
+    size: 3em;
+}
+body{
+    font-size: 16px;
+    background-color: rgb(241, 241, 107);
+}
+#amarelo{
+    background-color: blue;
+}
+#vermelho{
+  background-color: red;
+}
+#marrom{
+  background-color: brown;
+}
+.fundo{
+    background-color: rgb(52, 180, 109);
+}
+ul{
+    color: purple;
+}
+li{
+    font-style:inherit;
+    line-height: 30px ;
+    text-align: center;
+    text-decoration:underline;
+}
