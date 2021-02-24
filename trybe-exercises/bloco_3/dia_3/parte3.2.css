@@ -1,0 +1,18 @@
+.primaria:hover{
+    background-color: blue;
+    color: white;
+}
+.secundaria:hover{
+    background-color: purple;
+    color: white;
+}
+.complementar:hover{
+    background-color: orange;
+}
+.escura:hover{
+    background-color: #181820;
+    color: white;
+}
+.clara:hover{
+    background-color: #5aaca4;
+}
