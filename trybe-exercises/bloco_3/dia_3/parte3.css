@@ -1,0 +1,16 @@
+h1, p{
+    text-align: center;
+}
+li:hover{
+    background-color: purple;
+    color:seashell;
+}
+li:active{
+    font-family: 'Courier New', Courier, monospace;
+}
+#semEstilo{
+    list-style: none;
+}
+ul, ol{
+    list-style: none;
+}
