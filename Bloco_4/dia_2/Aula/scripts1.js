@@ -27,6 +27,6 @@ let indexOfPortfolio = menu[2];
 
 console.log(indexOfPortfolio);
 
-menu.push('Contato')
+menu.push('Contato');
 
 console.log(menu);
